@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ViewPropertyAnimator Chain</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sample">SampleActivity</string>
+
+    <string name="simple_chain">Simple chain</string>
+    <string name="simple_chain_label">It simply chains a pair of animations that makes the cursor ease between two boundaries.</string>
+    <string name="circular_chain">Circular chain</string>
+    <string name="circular_chain_label">It chains the needed animations to make the cursor animate along a circular path.</string>
+    <string name="dynamic_chain">Dynamic chain</string>
+    <string name="dynamic_chain_label">It chains a pair of animations that makes the cursor ease between two boundaries, changing the duration of the second animation every 200ms.</string>
+</resources>

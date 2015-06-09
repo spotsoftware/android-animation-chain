@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_simple_chain"
+        android:orderInCategory="100"
+        android:title="@string/simple_chain"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_circular_chain"
+        android:orderInCategory="101"
+        android:title="@string/circular_chain"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_dynamic_chain"
+        android:orderInCategory="102"
+        android:title="@string/dynamic_chain"
+        app:showAsAction="never" />
+</menu>
